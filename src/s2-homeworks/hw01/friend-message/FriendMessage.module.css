@@ -22,7 +22,7 @@
     border-radius: 5px;
     border-color: #F5F7FB;
     border-radius: 10px 10px 10px 0px;
-    background: #F5F7FB;
+    background: #DCDEE1;
     margin-left: 10px;
 }
 
@@ -33,7 +33,7 @@
     display: block;
     width: 20px;
     height: 20px;
-    background: radial-gradient(40px at top left, transparent 50%, #F5F7FB 0);
+    background: radial-gradient(40px at top left, transparent 50%, #DCDEE1 0);
     margin-left: -30px;
     margin-bottom: -10px;
 }
