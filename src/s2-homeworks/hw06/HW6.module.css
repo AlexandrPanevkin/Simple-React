@@ -1,5 +1,14 @@
 .buttonsContainer {
+    display: flex;
+    padding-right: 10px;
 }
 
 .editableSpanContainer {
+
+}
+
+.buttonsContainer #hw6-save {
+    padding: 10px;
+    margin: 50px;
+    background-color: red;
 }
