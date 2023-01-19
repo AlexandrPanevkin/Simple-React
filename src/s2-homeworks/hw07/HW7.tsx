@@ -11,10 +11,15 @@ import s from './HW7.module.css'
 * 4 - сделать стили в соответствии с дизайном
 * */
 
-const arr = [
-    { id: 1, value: 'x' },
-    { id: 2, value: 'y' },
-    { id: 3, value: 'z' },
+// export type ValueType = {
+//     id: number
+//     value: string
+// }
+
+const arr= [
+    { id: 1, value: 'firstValue' },
+    { id: 2, value: 'secondValue' },
+    { id: 3, value: 'thirdValue' },
 ] // value может быть изменено
 
 const HW7 = () => {
